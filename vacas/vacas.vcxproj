@@ -116,6 +116,7 @@
   <ItemGroup>
     <ClInclude Include="Arbolbinario.hpp" />
     <ClInclude Include="Archivos.h" />
+    <ClInclude Include="Archivos.hpp" />
     <ClInclude Include="HashEntidad.hpp" />
     <ClInclude Include="HashTabla.hpp" />
     <ClInclude Include="sorting.hpp" />

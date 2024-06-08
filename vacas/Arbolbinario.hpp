@@ -41,17 +41,17 @@ public:
         return eliminado;
     }
 
-    void verificarMayorMultiploDe5() {
+    void verificarMayorMultiploDe3() {
         if (raiz == nullptr) {
             cout << "El árbol está vacío." << endl;
             return;
         }
         Nodo<T>* mayorNodo = encontrarMayor(raiz);
-        if (mayorNodo->elemento.stock % 5 == 0) {
-            cout << "El elemento del nodo mayor (" << mayorNodo->elemento.stock << ") es múltiplo de 5." << endl;
+        if (mayorNodo->elemento.edad %3 == 0) {
+            cout << "El elemento del nodo mayor (" << mayorNodo->elemento.edad << ") es múltiplo de 3." << endl;
         }
         else {
-            cout << "El elemento del nodo mayor (" << mayorNodo->elemento.stock << ") no es múltiplo de 5." << endl;
+            cout << "El elemento del nodo mayor (" << mayorNodo->elemento.edad << ") no es múltiplo de 3." << endl;
         }
     }
 
@@ -103,16 +103,16 @@ private:
             eliminado = true;
             if (nodo->izq == nullptr) {
                 Nodo<T>* temp = nodo->der;
-                if (esPrimo(nodo->elemento.stock)) {
-                    cout << "El número eliminado (" << nodo->elemento.stock << ") es primo." << endl;
+                if (esPrimo(nodo->elemento.edad)) {
+                    cout << "El número eliminado (" << nodo->elemento.edad << ") es primo." << endl;
                 }
                 delete nodo;
                 return temp;
             }
             else if (nodo->der == nullptr) {
                 Nodo<T>* temp = nodo->izq;
-                if (esPrimo(nodo->elemento.stock)) {
-                    cout << "El número eliminado (" << nodo->elemento.stock << ") es primo." << endl;
+                if (esPrimo(nodo->elemento.edad)) {
+                    cout << "El número eliminado (" << nodo->elemento.edad << ") es primo." << endl;
                 }
                 delete nodo;
                 return temp;
@@ -130,6 +130,40 @@ private:
             nodo = nodo->der;
         }
         return nodo;
+    }
+    bool compararPorEdad(const Vaca* a, const Vaca* b) {
+        return a->edad < b->edad;
+    }
+
+    bool compararPorNombre(const Vaca* a, const Vaca* b) {
+        return a->nombre < b->nombre;
+    }
+
+    void busquedaBinaria(const std::vector<Vaca*>& vacas, int edad) {
+        auto it = std::lower_bound(vacas.begin(), vacas.end(), edad, [](const Vaca* vaca, int value) {
+            return vaca->edad < value;
+            });
+
+        if (it != vacas.end() && (*it)->edad == edad) {
+            std::cout << "Vacas encontradas en los índices: ";
+            while (it != vacas.end() && (*it)->edad == edad) {
+                std::cout << std::distance(vacas.begin(), it) << " ";
+                ++it;
+            }
+            std::cout << std::endl;
+        }
+        else {
+            std::cout << "No se encontraron vacas con la edad " << edad << std::endl;
+        }
+    }
+
+    void ordenarPorEdadYNombre(std::vector<Vaca*>& vacas) {
+        std::sort(vacas.begin(), vacas.end(), [](const Vaca* a, const Vaca* b) {
+            if (a->edad == b->edad) {
+                return a->nombre < b->nombre;
+            }
+            return a->edad < b->edad;
+            });
     }
 };
 

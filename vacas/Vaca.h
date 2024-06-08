@@ -1,5 +1,5 @@
-#ifndef PRODUCTO_H
-#define PRODUCTO_H
+#ifndef VACA_H
+#define VACA_H
 
 #include <iostream>
 #include <string>
@@ -15,29 +15,30 @@ public:
     float peso;
 
     // Constructor predeterminado
-    Vaca() : Id(0), Kg(0), edad(0) {}
+    Vaca() : Id(0), Kg(0), edad(0), peso(0) {}
 
     // Constructor con parámetros
     Vaca(int id, const string& nombre, int Kg, const string& color, int edad, float peso)
         : Id(id), nombre(nombre), Kg(Kg), color(color), edad(edad), peso(peso) {}
 
-    Vaca(const string& nombre, float edad)
-        : nombre(nombre), edad(edad), Id(0), color(""), Kg(0), peso(0) {}
+    // Constructor simplificado
+    Vaca(int id)
+        : Id(id), nombre(""), Kg(0), color(""), edad(0), peso(0) {}
 
     bool operator<(const Vaca& other) const {
         return this->edad < other.edad;
     }
 
     bool operator==(const Vaca& other) const {
-        return this->edad == other.edad;
+        return this->Id == other.Id;
     }
 
     bool operator>(const Vaca& other) const {
         return this->edad > other.edad;
     }
 
-    friend ostream& operator<<(ostream& os, const Vaca& Vaca) {
-        os << "Vaca(Id: " << Vaca.Id << ", Nombre: " << Vaca.nombre << ", Kilos: " << Vaca.Kg << ", Color: " << Vaca.color << ", edad: " << Vaca.edad << ", Peso: " << Vaca.peso << ")";
+    friend ostream& operator<<(ostream& os, const Vaca& vaca) {
+        os << "Vaca(Id: " << vaca.Id << ", Nombre: " << vaca.nombre << ", Kilos: " << vaca.Kg << ", Color: " << vaca.color << ", Edad: " << vaca.edad << ", Peso: " << vaca.peso << ")";
         return os;
     }
 
@@ -55,4 +56,4 @@ public:
     }
 };
 
-#endif
+#endif // VACA_H

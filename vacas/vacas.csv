@@ -1,0 +1,301 @@
+Id|Nombre|Kg|Color|Edad|Peso
+1|Vaca5|35|Marrón claro|7|1.5
+2|Vaca7|25|Negra|5|79.47
+3|Vaca2|42|Blanca|3|61.52
+4|Vaca7|33|Negra|2|29.06
+5|Vaca8|13|Negra|1|29.21
+6|Vaca5|52|Blanca|7|98.84
+7|Vaca8|6|Blanca|7|3.02
+8|Vaca9|65|Manchada|0|28
+9|Vaca1|71|Negra|17|43.02
+10|Vaca8|52|Negra|15|76.23
+11|Vaca2|88|Negra|13|27.6
+12|Vaca3|68|Negra|0|8.86
+13|Vaca5|98|Manchada|4|87.9
+14|Vaca4|12|Negra|15|63.39
+15|Vaca2|40|Marrón claro|1|70.44
+16|Vaca5|9|Marrón|7|97.69
+17|Vaca6|98|Negra|12|73.88
+18|Vaca4|72|Blanca|13|47.48
+19|Vaca3|71|Negra|18|11.36
+20|Vaca5|6|Blanca|0|30.92
+21|Vaca10|27|Negra|5|97.85
+22|Vaca8|12|Marrón claro|8|37.3
+23|Vaca3|85|Marrón claro|16|71.71
+24|Vaca3|42|Blanca|0|0.43
+25|Vaca5|26|Marrón claro|3|78.89
+26|Vaca9|42|Marrón|6|78.27
+27|Vaca2|23|Negra|9|27.31
+28|Vaca9|20|Marrón claro|13|0.55
+29|Vaca1|56|Negra|13|97.26
+30|Vaca8|94|Manchada|1|52.32
+31|Vaca5|33|Marrón|5|3.95
+32|Vaca1|38|Marrón claro|17|91.4
+33|Vaca8|79|Marrón|10|60.34
+34|Vaca3|39|Manchada|15|14.7
+35|Vaca5|34|Marrón|3|43.32
+36|Vaca1|20|Marrón|2|73.32
+37|Vaca5|95|Manchada|18|65.87
+38|Vaca3|25|Blanca|16|94.82
+39|Vaca8|45|Manchada|19|30.06
+40|Vaca3|99|Negra|19|9.94
+41|Vaca2|76|Marrón|7|51.49
+42|Vaca4|27|Manchada|13|21.71
+43|Vaca7|41|Blanca|13|17.58
+44|Vaca7|66|Blanca|18|54.2
+45|Vaca6|63|Blanca|6|90.84
+46|Vaca7|12|Marrón|5|79.7
+47|Vaca9|37|Manchada|6|30.03
+48|Vaca2|10|Marrón claro|18|10.86
+49|Vaca4|92|Manchada|18|70.08
+50|Vaca9|76|Blanca|15|61.11
+51|Vaca1|12|Negra|16|68.07
+52|Vaca9|96|Blanca|0|40.54
+53|Vaca2|79|Marrón claro|6|70.27
+54|Vaca6|99|Manchada|8|53.56
+55|Vaca4|73|Manchada|1|92.09
+56|Vaca7|92|Marrón|12|80.19
+57|Vaca2|42|Marrón|1|3
+58|Vaca7|79|Marrón claro|18|3.27
+59|Vaca8|40|Blanca|13|16.2
+60|Vaca2|78|Marrón claro|3|83.55
+61|Vaca3|43|Manchada|7|21.12
+62|Vaca5|75|Marrón claro|9|0.25
+63|Vaca7|42|Manchada|19|90.32
+64|Vaca1|58|Marrón|17|94.06
+65|Vaca9|69|Marrón|11|74.67
+66|Vaca7|5|Marrón|15|45.84
+67|Vaca1|24|Marrón claro|14|15.54
+68|Vaca5|97|Negra|18|38.16
+69|Vaca1|29|Marrón claro|14|12.06
+70|Vaca3|5|Manchada|10|11.12
+71|Vaca2|93|Negra|11|18.75
+72|Vaca5|61|Negra|0|95.04
+73|Vaca9|31|Marrón claro|12|42.36
+74|Vaca10|25|Manchada|17|34.79
+75|Vaca10|58|Marrón|15|61.17
+76|Vaca8|76|Marrón|13|56.29
+77|Vaca3|36|Marrón claro|12|40.67
+78|Vaca2|47|Blanca|5|15.15
+79|Vaca10|40|Manchada|3|1.67
+80|Vaca10|58|Marrón claro|7|35.87
+81|Vaca9|92|Marrón claro|15|45.34
+82|Vaca1|68|Marrón|5|92.45
+83|Vaca6|90|Marrón|1|28.48
+84|Vaca1|65|Marrón claro|1|63.32
+85|Vaca3|12|Marrón|2|94.31
+86|Vaca8|9|Marrón|0|98.21
+87|Vaca7|98|Marrón|3|20.45
+88|Vaca1|54|Marrón claro|9|32.74
+89|Vaca6|71|Negra|6|3.49
+90|Vaca3|63|Marrón claro|12|96.23
+91|Vaca10|3|Marrón|13|3.37
+92|Vaca10|91|Marrón claro|15|63.74
+93|Vaca2|39|Manchada|17|99.04
+94|Vaca3|28|Negra|4|61.3
+95|Vaca5|58|Negra|13|31.11
+96|Vaca9|97|Marrón|6|53.12
+97|Vaca6|35|Manchada|4|54.06
+98|Vaca6|5|Marrón claro|5|40.93
+99|Vaca6|71|Manchada|9|66.53
+100|Vaca1|18|Negra|12|71.84
+101|Vaca10|21|Manchada|5|81.1
+102|Vaca6|69|Marrón|14|27.01
+103|Vaca7|51|Negra|17|89.85
+104|Vaca5|63|Marrón claro|1|17.72
+105|Vaca10|79|Negra|17|59.69
+106|Vaca1|43|Blanca|5|79.62
+107|Vaca5|81|Marrón|16|11.53
+108|Vaca8|64|Negra|13|22.13
+109|Vaca2|68|Marrón|2|79.16
+110|Vaca4|38|Blanca|6|48.12
+111|Vaca7|28|Manchada|6|97.57
+112|Vaca3|9|Marrón claro|9|60.62
+113|Vaca7|21|Marrón claro|16|38.82
+114|Vaca2|22|Manchada|5|64.78
+115|Vaca4|58|Negra|18|70.85
+116|Vaca3|89|Negra|12|6.42
+117|Vaca8|27|Marrón claro|17|40.2
+118|Vaca6|74|Marrón claro|6|11.78
+119|Vaca5|84|Marrón claro|7|34.78
+120|Vaca10|95|Blanca|12|76.8
+121|Vaca7|86|Manchada|6|45.62
+122|Vaca10|18|Blanca|3|46.18
+123|Vaca2|74|Negra|16|0.92
+124|Vaca5|52|Negra|16|40.04
+125|Vaca8|89|Negra|2|64.01
+126|Vaca6|32|Marrón|15|66.75
+127|Vaca3|82|Negra|10|99.79
+128|Vaca6|72|Marrón|17|56.41
+129|Vaca6|27|Marrón|9|65.94
+130|Vaca6|13|Blanca|7|48.18
+131|Vaca7|51|Marrón|7|99.13
+132|Vaca3|22|Negra|12|5.75
+133|Vaca8|58|Negra|0|68.43
+134|Vaca4|40|Blanca|6|8.57
+135|Vaca3|1|Blanca|19|78.28
+136|Vaca8|99|Manchada|4|88.96
+137|Vaca3|48|Manchada|1|62.67
+138|Vaca9|96|Marrón|3|0.85
+139|Vaca3|66|Negra|17|36.99
+140|Vaca5|16|Manchada|11|48.93
+141|Vaca2|92|Negra|10|65.57
+142|Vaca10|88|Marrón|4|5.47
+143|Vaca4|61|Manchada|9|52.43
+144|Vaca2|39|Blanca|12|97.53
+145|Vaca6|52|Blanca|15|38.14
+146|Vaca2|36|Manchada|2|15.86
+147|Vaca8|82|Blanca|10|26.96
+148|Vaca5|37|Blanca|0|26.78
+149|Vaca5|30|Blanca|15|29.66
+150|Vaca5|79|Negra|14|80.58
+151|Vaca9|7|Marrón|6|62.92
+152|Vaca5|3|Manchada|7|52.58
+153|Vaca5|69|Negra|2|13.21
+154|Vaca4|48|Negra|12|87.72
+155|Vaca9|71|Manchada|7|64.72
+156|Vaca7|35|Marrón|14|0.57
+157|Vaca9|16|Marrón|10|31.56
+158|Vaca10|16|Blanca|4|35.38
+159|Vaca4|36|Marrón|19|53.33
+160|Vaca3|46|Negra|17|0.25
+161|Vaca4|44|Marrón|16|89.51
+162|Vaca4|77|Negra|3|99.94
+163|Vaca6|24|Negra|13|38.07
+164|Vaca4|66|Blanca|4|86.45
+165|Vaca1|12|Manchada|2|18.06
+166|Vaca1|94|Blanca|12|33.4
+167|Vaca6|77|Marrón claro|12|38.13
+168|Vaca1|47|Blanca|0|66.88
+169|Vaca7|14|Marrón claro|0|95.67
+170|Vaca8|12|Marrón claro|2|26.31
+171|Vaca4|47|Manchada|13|50.33
+172|Vaca9|32|Blanca|5|11.36
+173|Vaca7|57|Manchada|10|73.68
+174|Vaca4|85|Marrón claro|7|63.31
+175|Vaca10|51|Blanca|15|13.15
+176|Vaca1|5|Marrón|4|3.51
+177|Vaca1|7|Blanca|6|52.16
+178|Vaca10|85|Blanca|1|71.33
+179|Vaca1|48|Marrón|12|40.08
+180|Vaca10|84|Blanca|1|94.58
+181|Vaca10|23|Negra|12|95.57
+182|Vaca2|55|Negra|14|77.13
+183|Vaca7|56|Marrón claro|13|13.87
+184|Vaca8|83|Marrón|4|13.1
+185|Vaca8|58|Blanca|13|75.85
+186|Vaca1|14|Marrón|18|41.57
+187|Vaca4|22|Marrón|13|6.54
+188|Vaca8|70|Marrón claro|1|81.94
+189|Vaca4|96|Negra|5|68.03
+190|Vaca8|59|Negra|1|68.53
+191|Vaca10|54|Manchada|2|29.83
+192|Vaca8|3|Negra|18|36.81
+193|Vaca6|98|Manchada|7|88.89
+194|Vaca8|99|Marrón claro|16|11.41
+195|Vaca4|67|Blanca|13|51.49
+196|Vaca6|84|Marrón|14|80.67
+197|Vaca1|71|Manchada|3|57.1
+198|Vaca4|56|Manchada|15|99.27
+199|Vaca8|26|Marrón claro|13|72.31
+200|Vaca9|2|Negra|10|69.42
+201|Vaca8|6|Negra|15|18.23
+202|Vaca10|75|Marrón claro|18|0.96
+203|Vaca4|18|Negra|5|23.57
+204|Vaca10|62|Manchada|9|70.27
+205|Vaca2|0|Marrón|5|59.41
+206|Vaca4|65|Marrón claro|15|44.13
+207|Vaca6|94|Negra|8|12.44
+208|Vaca2|78|Marrón claro|10|85.64
+209|Vaca7|28|Marrón claro|5|0.87
+210|Vaca2|61|Negra|4|39.96
+211|Vaca5|91|Marrón claro|19|76.34
+212|Vaca7|30|Manchada|11|34.77
+213|Vaca2|17|Negra|13|96.66
+214|Vaca4|54|Blanca|16|59.11
+215|Vaca3|5|Negra|19|50.47
+216|Vaca9|49|Manchada|18|98.94
+217|Vaca9|73|Manchada|11|52.34
+218|Vaca9|83|Blanca|9|43.66
+219|Vaca5|5|Marrón|6|14.56
+220|Vaca1|96|Negra|2|98.9
+221|Vaca1|21|Negra|16|23.6
+222|Vaca1|56|Blanca|9|18.63
+223|Vaca1|58|Negra|17|87.27
+224|Vaca2|76|Manchada|4|64.76
+225|Vaca1|58|Marrón claro|5|46.96
+226|Vaca2|33|Marrón|6|83.27
+227|Vaca9|6|Negra|13|63.13
+228|Vaca5|34|Blanca|9|34.95
+229|Vaca2|40|Marrón claro|3|35.87
+230|Vaca8|32|Manchada|16|21.09
+231|Vaca5|17|Blanca|0|32.58
+232|Vaca10|8|Manchada|0|56.72
+233|Vaca2|67|Marrón claro|1|40.05
+234|Vaca9|50|Blanca|12|86.32
+235|Vaca3|50|Negra|7|38.51
+236|Vaca7|8|Marrón|3|37.68
+237|Vaca6|36|Marrón|15|0.5
+238|Vaca6|17|Marrón claro|1|94.35
+239|Vaca10|35|Manchada|1|98.83
+240|Vaca8|18|Negra|17|71.52
+241|Vaca2|71|Blanca|18|90.75
+242|Vaca1|76|Manchada|17|44.7
+243|Vaca4|96|Blanca|12|15.64
+244|Vaca6|20|Blanca|11|86.84
+245|Vaca6|40|Marrón|9|99.47
+246|Vaca9|40|Negra|3|29.36
+247|Vaca8|48|Marrón claro|13|49.73
+248|Vaca7|43|Manchada|9|91.78
+249|Vaca6|80|Marrón claro|12|11.28
+250|Vaca6|15|Manchada|1|82.7
+251|Vaca1|22|Marrón|2|68.56
+252|Vaca8|41|Negra|8|87.73
+253|Vaca10|68|Blanca|5|97.3
+254|Vaca7|22|Marrón claro|9|84
+255|Vaca5|52|Blanca|7|0.12
+256|Vaca6|44|Marrón|0|0.58
+257|Vaca4|3|Negra|18|57.49
+258|Vaca5|46|Marrón claro|10|64.41
+259|Vaca5|83|Negra|4|45.82
+260|Vaca5|55|Manchada|17|80.71
+261|Vaca3|38|Marrón|7|11.18
+262|Vaca4|16|Marrón claro|10|95.94
+263|Vaca9|96|Marrón|19|86.86
+264|Vaca8|94|Manchada|16|8.72
+265|Vaca3|25|Manchada|14|56.32
+266|Vaca9|16|Negra|19|93.35
+267|Vaca3|63|Manchada|1|96.45
+268|Vaca1|53|Marrón|9|72.45
+269|Vaca2|97|Blanca|16|86.25
+270|Vaca9|43|Manchada|16|72.16
+271|Vaca4|69|Blanca|8|2.71
+272|Vaca10|65|Marrón|1|34.88
+273|Vaca8|74|Marrón|19|42.8
+274|Vaca4|91|Manchada|15|24
+275|Vaca1|29|Negra|17|84.8
+276|Vaca9|85|Marrón|16|38.09
+277|Vaca2|73|Marrón claro|8|60.42
+278|Vaca3|98|Blanca|11|43.89
+279|Vaca5|57|Marrón|1|6.8
+280|Vaca9|48|Marrón claro|14|33.48
+281|Vaca1|33|Marrón claro|1|36.48
+282|Vaca6|15|Blanca|2|24.61
+283|Vaca2|52|Negra|17|25.42
+284|Vaca4|46|Marrón claro|15|37.52
+285|Vaca6|92|Marrón|11|4.62
+286|Vaca4|82|Blanca|11|18.45
+287|Vaca8|54|Blanca|13|91.66
+288|Vaca8|75|Negra|13|44.95
+289|Vaca1|97|Negra|2|71.03
+290|Vaca4|90|Negra|2|85.18
+291|Vaca4|94|Marrón|6|49.25
+292|Vaca4|0|Marrón|11|67.82
+293|Vaca6|37|Negra|6|66.65
+294|Vaca2|16|Manchada|4|1.1
+295|Vaca5|97|Manchada|10|22.24
+296|Vaca4|3|Marrón claro|5|87.57
+297|Vaca3|24|Marrón|14|74.76
+298|Vaca1|37|Marrón|11|52.9
+299|Vaca4|98|Marrón|10|80.89
+300|Vaca8|33|Manchada|17|52.25
